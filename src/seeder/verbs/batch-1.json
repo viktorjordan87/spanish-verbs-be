@@ -1,0 +1,95 @@
+[
+    {
+        "word": "hablar",
+        "tenses": {
+            "present": {
+                "yo": "hablo",
+                "tu": "hablas",
+                "el": "habla",
+                "nosotros": "hablamos",
+                "vosotros": "habláis",
+                "ellos": "hablan"
+            },
+            "preterite": {
+                "yo": "hablé",
+                "tu": "hablaste",
+                "el": "habló",
+                "nosotros": "hablamos",
+                "vosotros": "hablasteis",
+                "ellos": "hablaron"
+            },
+            "imperfect": {
+                "yo": "hablaba",
+                "tu": "hablabas",
+                "el": "hablaba",
+                "nosotros": "hablábamos",
+                "vosotros": "hablabais",
+                "ellos": "hablaban"
+            },
+            "future": {
+                "yo": "hablaré",
+                "tu": "hablarás",
+                "el": "hablará",
+                "nosotros": "hablaremos",
+                "vosotros": "hablaréis",
+                "ellos": "hablarán"
+            },
+            "conditional": {
+                "yo": "hablaría",
+                "tu": "hablarías",
+                "el": "hablaría",
+                "nosotros": "hablaríamos",
+                "vosotros": "hablaríais",
+                "ellos": "hablarían"
+            },
+            "presentSubjunctive": {
+                "yo": "hable",
+                "tu": "hables",
+                "el": "hable",
+                "nosotros": "hablemos",
+                "vosotros": "habléis",
+                "ellos": "hablen"
+            },
+            "imperfectSubjunctive": {
+                "yo": "hablara",
+                "tu": "hablaras",
+                "el": "hablara",
+                "nosotros": "habláramos",
+                "vosotros": "hablarais",
+                "ellos": "hablaran"
+            },
+            "presentPerfect": {
+                "yo": "he hablado",
+                "tu": "has hablado",
+                "el": "ha hablado",
+                "nosotros": "hemos hablado",
+                "vosotros": "habéis hablado",
+                "ellos": "han hablado"
+            },
+            "pastPerfect": {
+                "yo": "había hablado",
+                "tu": "habías hablado",
+                "el": "había hablado",
+                "nosotros": "habíamos hablado",
+                "vosotros": "habíais hablado",
+                "ellos": "habían hablado"
+            },
+            "futurePerfect": {
+                "yo": "habré hablado",
+                "tu": "habrás hablado",
+                "el": "habrá hablado",
+                "nosotros": "habremos hablado",
+                "vosotros": "habréis hablado",
+                "ellos": "habrán hablado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría hablado",
+                "tu": "habrías hablado",
+                "el": "habría hablado",
+                "nosotros": "habríamos hablado",
+                "vosotros": "habríais hablado",
+                "ellos": "habrían hablado"
+            }
+        }
+    }
+]

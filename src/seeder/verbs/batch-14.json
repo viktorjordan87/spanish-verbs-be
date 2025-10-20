@@ -1,0 +1,932 @@
+[
+    {
+        "word": "sufrir",
+        "tenses": {
+            "present": {
+                "yo": "sufro",
+                "tu": "sufres",
+                "el": "sufre",
+                "nosotros": "sufrimos",
+                "vosotros": "sufrís",
+                "ellos": "sufren"
+            },
+            "preterite": {
+                "yo": "sufrí",
+                "tu": "sufriste",
+                "el": "sufrió",
+                "nosotros": "sufrimos",
+                "vosotros": "sufristeis",
+                "ellos": "sufrieron"
+            },
+            "imperfect": {
+                "yo": "sufría",
+                "tu": "sufrías",
+                "el": "sufría",
+                "nosotros": "sufríamos",
+                "vosotros": "sufríais",
+                "ellos": "sufrían"
+            },
+            "future": {
+                "yo": "sufriré",
+                "tu": "sufrirás",
+                "el": "sufrirá",
+                "nosotros": "sufriremos",
+                "vosotros": "sufriréis",
+                "ellos": "sufrirán"
+            },
+            "conditional": {
+                "yo": "sufriría",
+                "tu": "sufrirías",
+                "el": "sufriría",
+                "nosotros": "sufriríamos",
+                "vosotros": "sufriríais",
+                "ellos": "sufrirían"
+            },
+            "presentSubjunctive": {
+                "yo": "sufra",
+                "tu": "sufras",
+                "el": "sufra",
+                "nosotros": "suframos",
+                "vosotros": "sufráis",
+                "ellos": "sufran"
+            },
+            "imperfectSubjunctive": {
+                "yo": "sufriera",
+                "tu": "sufrieras",
+                "el": "sufriera",
+                "nosotros": "sufriéramos",
+                "vosotros": "sufrierais",
+                "ellos": "sufrieran"
+            },
+            "presentPerfect": {
+                "yo": "he sufrido",
+                "tu": "has sufrido",
+                "el": "ha sufrido",
+                "nosotros": "hemos sufrido",
+                "vosotros": "habéis sufrido",
+                "ellos": "han sufrido"
+            },
+            "pastPerfect": {
+                "yo": "había sufrido",
+                "tu": "habías sufrido",
+                "el": "había sufrido",
+                "nosotros": "habíamos sufrido",
+                "vosotros": "habíais sufrido",
+                "ellos": "habían sufrido"
+            },
+            "futurePerfect": {
+                "yo": "habré sufrido",
+                "tu": "habrás sufrido",
+                "el": "habrá sufrido",
+                "nosotros": "habremos sufrido",
+                "vosotros": "habréis sufrido",
+                "ellos": "habrán sufrido"
+            },
+            "conditionalPerfect": {
+                "yo": "habría sufrido",
+                "tu": "habrías sufrido",
+                "el": "habría sufrido",
+                "nosotros": "habríamos sufrido",
+                "vosotros": "habríais sufrido",
+                "ellos": "habrían sufrido"
+            }
+        }
+    },
+    {
+        "word": "subir",
+        "tenses": {
+            "present": {
+                "yo": "subo",
+                "tu": "subes",
+                "el": "sube",
+                "nosotros": "subimos",
+                "vosotros": "subís",
+                "ellos": "suben"
+            },
+            "preterite": {
+                "yo": "subí",
+                "tu": "subiste",
+                "el": "subió",
+                "nosotros": "subimos",
+                "vosotros": "subisteis",
+                "ellos": "subieron"
+            },
+            "imperfect": {
+                "yo": "subía",
+                "tu": "subías",
+                "el": "subía",
+                "nosotros": "subíamos",
+                "vosotros": "subíais",
+                "ellos": "subían"
+            },
+            "future": {
+                "yo": "subiré",
+                "tu": "subirás",
+                "el": "subirá",
+                "nosotros": "subiremos",
+                "vosotros": "subiréis",
+                "ellos": "subirán"
+            },
+            "conditional": {
+                "yo": "subiría",
+                "tu": "subirías",
+                "el": "subiría",
+                "nosotros": "subiríamos",
+                "vosotros": "subiríais",
+                "ellos": "subirían"
+            },
+            "presentSubjunctive": {
+                "yo": "suba",
+                "tu": "subas",
+                "el": "suba",
+                "nosotros": "subamos",
+                "vosotros": "subáis",
+                "ellos": "suban"
+            },
+            "imperfectSubjunctive": {
+                "yo": "subiera",
+                "tu": "subieras",
+                "el": "subiera",
+                "nosotros": "subiéramos",
+                "vosotros": "subierais",
+                "ellos": "subieran"
+            },
+            "presentPerfect": {
+                "yo": "he subido",
+                "tu": "has subido",
+                "el": "ha subido",
+                "nosotros": "hemos subido",
+                "vosotros": "habéis subido",
+                "ellos": "han subido"
+            },
+            "pastPerfect": {
+                "yo": "había subido",
+                "tu": "habías subido",
+                "el": "había subido",
+                "nosotros": "habíamos subido",
+                "vosotros": "habíais subido",
+                "ellos": "habían subido"
+            },
+            "futurePerfect": {
+                "yo": "habré subido",
+                "tu": "habrás subido",
+                "el": "habrá subido",
+                "nosotros": "habremos subido",
+                "vosotros": "habréis subido",
+                "ellos": "habrán subido"
+            },
+            "conditionalPerfect": {
+                "yo": "habría subido",
+                "tu": "habrías subido",
+                "el": "habría subido",
+                "nosotros": "habríamos subido",
+                "vosotros": "habríais subido",
+                "ellos": "habrían subido"
+            }
+        }
+    },
+    {
+        "word": "bajar",
+        "tenses": {
+            "present": {
+                "yo": "bajo",
+                "tu": "bajas",
+                "el": "baja",
+                "nosotros": "bajamos",
+                "vosotros": "bajáis",
+                "ellos": "bajan"
+            },
+            "preterite": {
+                "yo": "bajé",
+                "tu": "bajaste",
+                "el": "bajó",
+                "nosotros": "bajamos",
+                "vosotros": "bajasteis",
+                "ellos": "bajaron"
+            },
+            "imperfect": {
+                "yo": "bajaba",
+                "tu": "bajabas",
+                "el": "bajaba",
+                "nosotros": "bajábamos",
+                "vosotros": "bajabais",
+                "ellos": "bajaban"
+            },
+            "future": {
+                "yo": "bajaré",
+                "tu": "bajarás",
+                "el": "bajará",
+                "nosotros": "bajaremos",
+                "vosotros": "bajaréis",
+                "ellos": "bajarán"
+            },
+            "conditional": {
+                "yo": "bajaría",
+                "tu": "bajarías",
+                "el": "bajaría",
+                "nosotros": "bajaríamos",
+                "vosotros": "bajaríais",
+                "ellos": "bajarían"
+            },
+            "presentSubjunctive": {
+                "yo": "baje",
+                "tu": "bajes",
+                "el": "baje",
+                "nosotros": "bajemos",
+                "vosotros": "bajéis",
+                "ellos": "bajen"
+            },
+            "imperfectSubjunctive": {
+                "yo": "bajara",
+                "tu": "bajaras",
+                "el": "bajara",
+                "nosotros": "bajáramos",
+                "vosotros": "bajarais",
+                "ellos": "bajaran"
+            },
+            "presentPerfect": {
+                "yo": "he bajado",
+                "tu": "has bajado",
+                "el": "ha bajado",
+                "nosotros": "hemos bajado",
+                "vosotros": "habéis bajado",
+                "ellos": "han bajado"
+            },
+            "pastPerfect": {
+                "yo": "había bajado",
+                "tu": "habías bajado",
+                "el": "había bajado",
+                "nosotros": "habíamos bajado",
+                "vosotros": "habíais bajado",
+                "ellos": "habían bajado"
+            },
+            "futurePerfect": {
+                "yo": "habré bajado",
+                "tu": "habrás bajado",
+                "el": "habrá bajado",
+                "nosotros": "habremos bajado",
+                "vosotros": "habréis bajado",
+                "ellos": "habrán bajado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría bajado",
+                "tu": "habrías bajado",
+                "el": "habría bajado",
+                "nosotros": "habríamos bajado",
+                "vosotros": "habríais bajado",
+                "ellos": "habrían bajado"
+            }
+        }
+    },
+    {
+        "word": "oler",
+        "tenses": {
+            "present": {
+                "yo": "olo",
+                "tu": "oles",
+                "el": "ole",
+                "nosotros": "olemos",
+                "vosotros": "oléis",
+                "ellos": "olen"
+            },
+            "preterite": {
+                "yo": "olí",
+                "tu": "oliste",
+                "el": "olió",
+                "nosotros": "olimos",
+                "vosotros": "olisteis",
+                "ellos": "olieron"
+            },
+            "imperfect": {
+                "yo": "olía",
+                "tu": "olías",
+                "el": "olía",
+                "nosotros": "olíamos",
+                "vosotros": "olíais",
+                "ellos": "olían"
+            },
+            "future": {
+                "yo": "oleré",
+                "tu": "olerás",
+                "el": "olerá",
+                "nosotros": "oleremos",
+                "vosotros": "oleréis",
+                "ellos": "olerán"
+            },
+            "conditional": {
+                "yo": "olería",
+                "tu": "olerías",
+                "el": "olería",
+                "nosotros": "oleríamos",
+                "vosotros": "oleríais",
+                "ellos": "olerían"
+            },
+            "presentSubjunctive": {
+                "yo": "ola",
+                "tu": "olas",
+                "el": "ola",
+                "nosotros": "olamos",
+                "vosotros": "oláis",
+                "ellos": "olan"
+            },
+            "imperfectSubjunctive": {
+                "yo": "oliera",
+                "tu": "olieras",
+                "el": "oliera",
+                "nosotros": "oliéramos",
+                "vosotros": "olierais",
+                "ellos": "olieran"
+            },
+            "presentPerfect": {
+                "yo": "he olido",
+                "tu": "has olido",
+                "el": "ha olido",
+                "nosotros": "hemos olido",
+                "vosotros": "habéis olido",
+                "ellos": "han olido"
+            },
+            "pastPerfect": {
+                "yo": "había olido",
+                "tu": "habías olido",
+                "el": "había olido",
+                "nosotros": "habíamos olido",
+                "vosotros": "habíais olido",
+                "ellos": "habían olido"
+            },
+            "futurePerfect": {
+                "yo": "habré olido",
+                "tu": "habrás olido",
+                "el": "habrá olido",
+                "nosotros": "habremos olido",
+                "vosotros": "habréis olido",
+                "ellos": "habrán olido"
+            },
+            "conditionalPerfect": {
+                "yo": "habría olido",
+                "tu": "habrías olido",
+                "el": "habría olido",
+                "nosotros": "habríamos olido",
+                "vosotros": "habríais olido",
+                "ellos": "habrían olido"
+            }
+        }
+    },
+    {
+        "word": "llenar",
+        "tenses": {
+            "present": {
+                "yo": "lleno",
+                "tu": "llenas",
+                "el": "llena",
+                "nosotros": "llenamos",
+                "vosotros": "llenáis",
+                "ellos": "llenan"
+            },
+            "preterite": {
+                "yo": "llené",
+                "tu": "llenaste",
+                "el": "llenó",
+                "nosotros": "llenamos",
+                "vosotros": "llenasteis",
+                "ellos": "llenaron"
+            },
+            "imperfect": {
+                "yo": "llenaba",
+                "tu": "llenabas",
+                "el": "llenaba",
+                "nosotros": "llenábamos",
+                "vosotros": "llenabais",
+                "ellos": "llenaban"
+            },
+            "future": {
+                "yo": "llenaré",
+                "tu": "llenarás",
+                "el": "llenará",
+                "nosotros": "llenaremos",
+                "vosotros": "llenaréis",
+                "ellos": "llenarán"
+            },
+            "conditional": {
+                "yo": "llenaría",
+                "tu": "llenarías",
+                "el": "llenaría",
+                "nosotros": "llenaríamos",
+                "vosotros": "llenaríais",
+                "ellos": "llenarían"
+            },
+            "presentSubjunctive": {
+                "yo": "llene",
+                "tu": "llenes",
+                "el": "llene",
+                "nosotros": "llenemos",
+                "vosotros": "llenéis",
+                "ellos": "llenen"
+            },
+            "imperfectSubjunctive": {
+                "yo": "llenara",
+                "tu": "llenaras",
+                "el": "llenara",
+                "nosotros": "llenáramos",
+                "vosotros": "llenarais",
+                "ellos": "llenaran"
+            },
+            "presentPerfect": {
+                "yo": "he llenado",
+                "tu": "has llenado",
+                "el": "ha llenado",
+                "nosotros": "hemos llenado",
+                "vosotros": "habéis llenado",
+                "ellos": "han llenado"
+            },
+            "pastPerfect": {
+                "yo": "había llenado",
+                "tu": "habías llenado",
+                "el": "había llenado",
+                "nosotros": "habíamos llenado",
+                "vosotros": "habíais llenado",
+                "ellos": "habían llenado"
+            },
+            "futurePerfect": {
+                "yo": "habré llenado",
+                "tu": "habrás llenado",
+                "el": "habrá llenado",
+                "nosotros": "habremos llenado",
+                "vosotros": "habréis llenado",
+                "ellos": "habrán llenado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría llenado",
+                "tu": "habrías llenado",
+                "el": "habría llenado",
+                "nosotros": "habríamos llenado",
+                "vosotros": "habríais llenado",
+                "ellos": "habrían llenado"
+            }
+        }
+    },
+    {
+        "word": "limpiar",
+        "tenses": {
+            "present": {
+                "yo": "limpio",
+                "tu": "limpias",
+                "el": "limpia",
+                "nosotros": "limpiamos",
+                "vosotros": "limpiáis",
+                "ellos": "limpian"
+            },
+            "preterite": {
+                "yo": "limpié",
+                "tu": "limpiaste",
+                "el": "limpió",
+                "nosotros": "limpiamos",
+                "vosotros": "limpiasteis",
+                "ellos": "limpiaron"
+            },
+            "imperfect": {
+                "yo": "limpiaba",
+                "tu": "limpiabas",
+                "el": "limpiaba",
+                "nosotros": "limpiábamos",
+                "vosotros": "limpiabais",
+                "ellos": "limpiaban"
+            },
+            "future": {
+                "yo": "limpiaré",
+                "tu": "limpiarás",
+                "el": "limpiará",
+                "nosotros": "limpiaremos",
+                "vosotros": "limpiaréis",
+                "ellos": "limpiarán"
+            },
+            "conditional": {
+                "yo": "limpiaría",
+                "tu": "limpiarías",
+                "el": "limpiaría",
+                "nosotros": "limpiaríamos",
+                "vosotros": "limpiaríais",
+                "ellos": "limpiarían"
+            },
+            "presentSubjunctive": {
+                "yo": "limpie",
+                "tu": "limpies",
+                "el": "limpie",
+                "nosotros": "limpiemos",
+                "vosotros": "limpiéis",
+                "ellos": "limpien"
+            },
+            "imperfectSubjunctive": {
+                "yo": "limpiara",
+                "tu": "limpiaras",
+                "el": "limpiara",
+                "nosotros": "limpiáramos",
+                "vosotros": "limpiarais",
+                "ellos": "limpiaran"
+            },
+            "presentPerfect": {
+                "yo": "he limpiado",
+                "tu": "has limpiado",
+                "el": "ha limpiado",
+                "nosotros": "hemos limpiado",
+                "vosotros": "habéis limpiado",
+                "ellos": "han limpiado"
+            },
+            "pastPerfect": {
+                "yo": "había limpiado",
+                "tu": "habías limpiado",
+                "el": "había limpiado",
+                "nosotros": "habíamos limpiado",
+                "vosotros": "habíais limpiado",
+                "ellos": "habían limpiado"
+            },
+            "futurePerfect": {
+                "yo": "habré limpiado",
+                "tu": "habrás limpiado",
+                "el": "habrá limpiado",
+                "nosotros": "habremos limpiado",
+                "vosotros": "habréis limpiado",
+                "ellos": "habrán limpiado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría limpiado",
+                "tu": "habrías limpiado",
+                "el": "habría limpiado",
+                "nosotros": "habríamos limpiado",
+                "vosotros": "habríais limpiado",
+                "ellos": "habrían limpiado"
+            }
+        }
+    },
+    {
+        "word": "lavar",
+        "tenses": {
+            "present": {
+                "yo": "lavo",
+                "tu": "lavas",
+                "el": "lava",
+                "nosotros": "lavamos",
+                "vosotros": "laváis",
+                "ellos": "lavan"
+            },
+            "preterite": {
+                "yo": "lavé",
+                "tu": "lavaste",
+                "el": "lavó",
+                "nosotros": "lavamos",
+                "vosotros": "lavasteis",
+                "ellos": "lavaron"
+            },
+            "imperfect": {
+                "yo": "lavaba",
+                "tu": "lavabas",
+                "el": "lavaba",
+                "nosotros": "lavábamos",
+                "vosotros": "lavabais",
+                "ellos": "lavaban"
+            },
+            "future": {
+                "yo": "lavaré",
+                "tu": "lavarás",
+                "el": "lavará",
+                "nosotros": "lavaremos",
+                "vosotros": "lavaréis",
+                "ellos": "lavarán"
+            },
+            "conditional": {
+                "yo": "lavaría",
+                "tu": "lavarías",
+                "el": "lavaría",
+                "nosotros": "lavaríamos",
+                "vosotros": "lavaríais",
+                "ellos": "lavarían"
+            },
+            "presentSubjunctive": {
+                "yo": "lave",
+                "tu": "laves",
+                "el": "lave",
+                "nosotros": "lavemos",
+                "vosotros": "lavéis",
+                "ellos": "laven"
+            },
+            "imperfectSubjunctive": {
+                "yo": "lavara",
+                "tu": "lavaras",
+                "el": "lavara",
+                "nosotros": "laváramos",
+                "vosotros": "lavarais",
+                "ellos": "lavaran"
+            },
+            "presentPerfect": {
+                "yo": "he lavado",
+                "tu": "has lavado",
+                "el": "ha lavado",
+                "nosotros": "hemos lavado",
+                "vosotros": "habéis lavado",
+                "ellos": "han lavado"
+            },
+            "pastPerfect": {
+                "yo": "había lavado",
+                "tu": "habías lavado",
+                "el": "había lavado",
+                "nosotros": "habíamos lavado",
+                "vosotros": "habíais lavado",
+                "ellos": "habían lavado"
+            },
+            "futurePerfect": {
+                "yo": "habré lavado",
+                "tu": "habrás lavado",
+                "el": "habrá lavado",
+                "nosotros": "habremos lavado",
+                "vosotros": "habréis lavado",
+                "ellos": "habrán lavado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría lavado",
+                "tu": "habrías lavado",
+                "el": "habría lavado",
+                "nosotros": "habríamos lavado",
+                "vosotros": "habríais lavado",
+                "ellos": "habrían lavado"
+            }
+        }
+    },
+    {
+        "word": "mover",
+        "tenses": {
+            "present": {
+                "yo": "movo",
+                "tu": "moves",
+                "el": "move",
+                "nosotros": "movemos",
+                "vosotros": "movéis",
+                "ellos": "moven"
+            },
+            "preterite": {
+                "yo": "moví",
+                "tu": "moviste",
+                "el": "movió",
+                "nosotros": "movimos",
+                "vosotros": "movisteis",
+                "ellos": "movieron"
+            },
+            "imperfect": {
+                "yo": "movía",
+                "tu": "movías",
+                "el": "movía",
+                "nosotros": "movíamos",
+                "vosotros": "movíais",
+                "ellos": "movían"
+            },
+            "future": {
+                "yo": "moveré",
+                "tu": "moverás",
+                "el": "moverá",
+                "nosotros": "moveremos",
+                "vosotros": "moveréis",
+                "ellos": "moverán"
+            },
+            "conditional": {
+                "yo": "movería",
+                "tu": "moverías",
+                "el": "movería",
+                "nosotros": "moveríamos",
+                "vosotros": "moveríais",
+                "ellos": "moverían"
+            },
+            "presentSubjunctive": {
+                "yo": "mova",
+                "tu": "movas",
+                "el": "mova",
+                "nosotros": "movamos",
+                "vosotros": "mováis",
+                "ellos": "movan"
+            },
+            "imperfectSubjunctive": {
+                "yo": "moviera",
+                "tu": "movieras",
+                "el": "moviera",
+                "nosotros": "moviéramos",
+                "vosotros": "movierais",
+                "ellos": "movieran"
+            },
+            "presentPerfect": {
+                "yo": "he movido",
+                "tu": "has movido",
+                "el": "ha movido",
+                "nosotros": "hemos movido",
+                "vosotros": "habéis movido",
+                "ellos": "han movido"
+            },
+            "pastPerfect": {
+                "yo": "había movido",
+                "tu": "habías movido",
+                "el": "había movido",
+                "nosotros": "habíamos movido",
+                "vosotros": "habíais movido",
+                "ellos": "habían movido"
+            },
+            "futurePerfect": {
+                "yo": "habré movido",
+                "tu": "habrás movido",
+                "el": "habrá movido",
+                "nosotros": "habremos movido",
+                "vosotros": "habréis movido",
+                "ellos": "habrán movido"
+            },
+            "conditionalPerfect": {
+                "yo": "habría movido",
+                "tu": "habrías movido",
+                "el": "habría movido",
+                "nosotros": "habríamos movido",
+                "vosotros": "habríais movido",
+                "ellos": "habrían movido"
+            }
+        }
+    },
+    {
+        "word": "mentir",
+        "tenses": {
+            "present": {
+                "yo": "mento",
+                "tu": "mentes",
+                "el": "mente",
+                "nosotros": "mentimos",
+                "vosotros": "mentís",
+                "ellos": "menten"
+            },
+            "preterite": {
+                "yo": "mentí",
+                "tu": "mentiste",
+                "el": "mentió",
+                "nosotros": "mentimos",
+                "vosotros": "mentisteis",
+                "ellos": "mentieron"
+            },
+            "imperfect": {
+                "yo": "mentía",
+                "tu": "mentías",
+                "el": "mentía",
+                "nosotros": "mentíamos",
+                "vosotros": "mentíais",
+                "ellos": "mentían"
+            },
+            "future": {
+                "yo": "mentiré",
+                "tu": "mentirás",
+                "el": "mentirá",
+                "nosotros": "mentiremos",
+                "vosotros": "mentiréis",
+                "ellos": "mentirán"
+            },
+            "conditional": {
+                "yo": "mentiría",
+                "tu": "mentirías",
+                "el": "mentiría",
+                "nosotros": "mentiríamos",
+                "vosotros": "mentiríais",
+                "ellos": "mentirían"
+            },
+            "presentSubjunctive": {
+                "yo": "menta",
+                "tu": "mentas",
+                "el": "menta",
+                "nosotros": "mentamos",
+                "vosotros": "mentáis",
+                "ellos": "mentan"
+            },
+            "imperfectSubjunctive": {
+                "yo": "mentiera",
+                "tu": "mentieras",
+                "el": "mentiera",
+                "nosotros": "mentiéramos",
+                "vosotros": "mentierais",
+                "ellos": "mentieran"
+            },
+            "presentPerfect": {
+                "yo": "he mentido",
+                "tu": "has mentido",
+                "el": "ha mentido",
+                "nosotros": "hemos mentido",
+                "vosotros": "habéis mentido",
+                "ellos": "han mentido"
+            },
+            "pastPerfect": {
+                "yo": "había mentido",
+                "tu": "habías mentido",
+                "el": "había mentido",
+                "nosotros": "habíamos mentido",
+                "vosotros": "habíais mentido",
+                "ellos": "habían mentido"
+            },
+            "futurePerfect": {
+                "yo": "habré mentido",
+                "tu": "habrás mentido",
+                "el": "habrá mentido",
+                "nosotros": "habremos mentido",
+                "vosotros": "habréis mentido",
+                "ellos": "habrán mentido"
+            },
+            "conditionalPerfect": {
+                "yo": "habría mentido",
+                "tu": "habrías mentido",
+                "el": "habría mentido",
+                "nosotros": "habríamos mentido",
+                "vosotros": "habríais mentido",
+                "ellos": "habrían mentido"
+            }
+        }
+    },
+    {
+        "word": "medir",
+        "tenses": {
+            "present": {
+                "yo": "medo",
+                "tu": "medes",
+                "el": "mede",
+                "nosotros": "medimos",
+                "vosotros": "medís",
+                "ellos": "meden"
+            },
+            "preterite": {
+                "yo": "medí",
+                "tu": "mediste",
+                "el": "medió",
+                "nosotros": "medimos",
+                "vosotros": "medisteis",
+                "ellos": "medieron"
+            },
+            "imperfect": {
+                "yo": "medía",
+                "tu": "medías",
+                "el": "medía",
+                "nosotros": "medíamos",
+                "vosotros": "medíais",
+                "ellos": "medían"
+            },
+            "future": {
+                "yo": "mediré",
+                "tu": "medirás",
+                "el": "medirá",
+                "nosotros": "mediremos",
+                "vosotros": "mediréis",
+                "ellos": "medirán"
+            },
+            "conditional": {
+                "yo": "mediría",
+                "tu": "medirías",
+                "el": "mediría",
+                "nosotros": "mediríamos",
+                "vosotros": "mediríais",
+                "ellos": "medirían"
+            },
+            "presentSubjunctive": {
+                "yo": "meda",
+                "tu": "medas",
+                "el": "meda",
+                "nosotros": "medamos",
+                "vosotros": "medáis",
+                "ellos": "medan"
+            },
+            "imperfectSubjunctive": {
+                "yo": "mediera",
+                "tu": "medieras",
+                "el": "mediera",
+                "nosotros": "mediéramos",
+                "vosotros": "medierais",
+                "ellos": "medieran"
+            },
+            "presentPerfect": {
+                "yo": "he medido",
+                "tu": "has medido",
+                "el": "ha medido",
+                "nosotros": "hemos medido",
+                "vosotros": "habéis medido",
+                "ellos": "han medido"
+            },
+            "pastPerfect": {
+                "yo": "había medido",
+                "tu": "habías medido",
+                "el": "había medido",
+                "nosotros": "habíamos medido",
+                "vosotros": "habíais medido",
+                "ellos": "habían medido"
+            },
+            "futurePerfect": {
+                "yo": "habré medido",
+                "tu": "habrás medido",
+                "el": "habrá medido",
+                "nosotros": "habremos medido",
+                "vosotros": "habréis medido",
+                "ellos": "habrán medido"
+            },
+            "conditionalPerfect": {
+                "yo": "habría medido",
+                "tu": "habrías medido",
+                "el": "habría medido",
+                "nosotros": "habríamos medido",
+                "vosotros": "habríais medido",
+                "ellos": "habrían medido"
+            }
+        }
+    }
+]

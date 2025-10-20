@@ -1,0 +1,932 @@
+[
+    {
+        "word": "apagar",
+        "tenses": {
+            "present": {
+                "yo": "apago",
+                "tu": "apagas",
+                "el": "apaga",
+                "nosotros": "apagamos",
+                "vosotros": "apagáis",
+                "ellos": "apagan"
+            },
+            "preterite": {
+                "yo": "apagé",
+                "tu": "apagaste",
+                "el": "apagó",
+                "nosotros": "apagamos",
+                "vosotros": "apagasteis",
+                "ellos": "apagaron"
+            },
+            "imperfect": {
+                "yo": "apagaba",
+                "tu": "apagabas",
+                "el": "apagaba",
+                "nosotros": "apagábamos",
+                "vosotros": "apagabais",
+                "ellos": "apagaban"
+            },
+            "future": {
+                "yo": "apagaré",
+                "tu": "apagarás",
+                "el": "apagará",
+                "nosotros": "apagaremos",
+                "vosotros": "apagaréis",
+                "ellos": "apagarán"
+            },
+            "conditional": {
+                "yo": "apagaría",
+                "tu": "apagarías",
+                "el": "apagaría",
+                "nosotros": "apagaríamos",
+                "vosotros": "apagaríais",
+                "ellos": "apagarían"
+            },
+            "presentSubjunctive": {
+                "yo": "apage",
+                "tu": "apages",
+                "el": "apage",
+                "nosotros": "apagemos",
+                "vosotros": "apagéis",
+                "ellos": "apagen"
+            },
+            "imperfectSubjunctive": {
+                "yo": "apagara",
+                "tu": "apagaras",
+                "el": "apagara",
+                "nosotros": "apagáramos",
+                "vosotros": "apagarais",
+                "ellos": "apagaran"
+            },
+            "presentPerfect": {
+                "yo": "he apagado",
+                "tu": "has apagado",
+                "el": "ha apagado",
+                "nosotros": "hemos apagado",
+                "vosotros": "habéis apagado",
+                "ellos": "han apagado"
+            },
+            "pastPerfect": {
+                "yo": "había apagado",
+                "tu": "habías apagado",
+                "el": "había apagado",
+                "nosotros": "habíamos apagado",
+                "vosotros": "habíais apagado",
+                "ellos": "habían apagado"
+            },
+            "futurePerfect": {
+                "yo": "habré apagado",
+                "tu": "habrás apagado",
+                "el": "habrá apagado",
+                "nosotros": "habremos apagado",
+                "vosotros": "habréis apagado",
+                "ellos": "habrán apagado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría apagado",
+                "tu": "habrías apagado",
+                "el": "habría apagado",
+                "nosotros": "habríamos apagado",
+                "vosotros": "habríais apagado",
+                "ellos": "habrían apagado"
+            }
+        }
+    },
+    {
+        "word": "abrazar",
+        "tenses": {
+            "present": {
+                "yo": "abrazo",
+                "tu": "abrazas",
+                "el": "abraza",
+                "nosotros": "abrazamos",
+                "vosotros": "abrazáis",
+                "ellos": "abrazan"
+            },
+            "preterite": {
+                "yo": "abrazé",
+                "tu": "abrazaste",
+                "el": "abrazó",
+                "nosotros": "abrazamos",
+                "vosotros": "abrazasteis",
+                "ellos": "abrazaron"
+            },
+            "imperfect": {
+                "yo": "abrazaba",
+                "tu": "abrazabas",
+                "el": "abrazaba",
+                "nosotros": "abrazábamos",
+                "vosotros": "abrazabais",
+                "ellos": "abrazaban"
+            },
+            "future": {
+                "yo": "abrazaré",
+                "tu": "abrazarás",
+                "el": "abrazará",
+                "nosotros": "abrazaremos",
+                "vosotros": "abrazaréis",
+                "ellos": "abrazarán"
+            },
+            "conditional": {
+                "yo": "abrazaría",
+                "tu": "abrazarías",
+                "el": "abrazaría",
+                "nosotros": "abrazaríamos",
+                "vosotros": "abrazaríais",
+                "ellos": "abrazarían"
+            },
+            "presentSubjunctive": {
+                "yo": "abraze",
+                "tu": "abrazes",
+                "el": "abraze",
+                "nosotros": "abrazemos",
+                "vosotros": "abrazéis",
+                "ellos": "abrazen"
+            },
+            "imperfectSubjunctive": {
+                "yo": "abrazara",
+                "tu": "abrazaras",
+                "el": "abrazara",
+                "nosotros": "abrazáramos",
+                "vosotros": "abrazarais",
+                "ellos": "abrazaran"
+            },
+            "presentPerfect": {
+                "yo": "he abrazado",
+                "tu": "has abrazado",
+                "el": "ha abrazado",
+                "nosotros": "hemos abrazado",
+                "vosotros": "habéis abrazado",
+                "ellos": "han abrazado"
+            },
+            "pastPerfect": {
+                "yo": "había abrazado",
+                "tu": "habías abrazado",
+                "el": "había abrazado",
+                "nosotros": "habíamos abrazado",
+                "vosotros": "habíais abrazado",
+                "ellos": "habían abrazado"
+            },
+            "futurePerfect": {
+                "yo": "habré abrazado",
+                "tu": "habrás abrazado",
+                "el": "habrá abrazado",
+                "nosotros": "habremos abrazado",
+                "vosotros": "habréis abrazado",
+                "ellos": "habrán abrazado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría abrazado",
+                "tu": "habrías abrazado",
+                "el": "habría abrazado",
+                "nosotros": "habríamos abrazado",
+                "vosotros": "habríais abrazado",
+                "ellos": "habrían abrazado"
+            }
+        }
+    },
+    {
+        "word": "acordar",
+        "tenses": {
+            "present": {
+                "yo": "acordo",
+                "tu": "acordas",
+                "el": "acorda",
+                "nosotros": "acordamos",
+                "vosotros": "acordáis",
+                "ellos": "acordan"
+            },
+            "preterite": {
+                "yo": "acordé",
+                "tu": "acordaste",
+                "el": "acordó",
+                "nosotros": "acordamos",
+                "vosotros": "acordasteis",
+                "ellos": "acordaron"
+            },
+            "imperfect": {
+                "yo": "acordaba",
+                "tu": "acordabas",
+                "el": "acordaba",
+                "nosotros": "acordábamos",
+                "vosotros": "acordabais",
+                "ellos": "acordaban"
+            },
+            "future": {
+                "yo": "acordaré",
+                "tu": "acordarás",
+                "el": "acordará",
+                "nosotros": "acordaremos",
+                "vosotros": "acordaréis",
+                "ellos": "acordarán"
+            },
+            "conditional": {
+                "yo": "acordaría",
+                "tu": "acordarías",
+                "el": "acordaría",
+                "nosotros": "acordaríamos",
+                "vosotros": "acordaríais",
+                "ellos": "acordarían"
+            },
+            "presentSubjunctive": {
+                "yo": "acorde",
+                "tu": "acordes",
+                "el": "acorde",
+                "nosotros": "acordemos",
+                "vosotros": "acordéis",
+                "ellos": "acorden"
+            },
+            "imperfectSubjunctive": {
+                "yo": "acordara",
+                "tu": "acordaras",
+                "el": "acordara",
+                "nosotros": "acordáramos",
+                "vosotros": "acordarais",
+                "ellos": "acordaran"
+            },
+            "presentPerfect": {
+                "yo": "he acordado",
+                "tu": "has acordado",
+                "el": "ha acordado",
+                "nosotros": "hemos acordado",
+                "vosotros": "habéis acordado",
+                "ellos": "han acordado"
+            },
+            "pastPerfect": {
+                "yo": "había acordado",
+                "tu": "habías acordado",
+                "el": "había acordado",
+                "nosotros": "habíamos acordado",
+                "vosotros": "habíais acordado",
+                "ellos": "habían acordado"
+            },
+            "futurePerfect": {
+                "yo": "habré acordado",
+                "tu": "habrás acordado",
+                "el": "habrá acordado",
+                "nosotros": "habremos acordado",
+                "vosotros": "habréis acordado",
+                "ellos": "habrán acordado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría acordado",
+                "tu": "habrías acordado",
+                "el": "habría acordado",
+                "nosotros": "habríamos acordado",
+                "vosotros": "habríais acordado",
+                "ellos": "habrían acordado"
+            }
+        }
+    },
+    {
+        "word": "acostar",
+        "tenses": {
+            "present": {
+                "yo": "acosto",
+                "tu": "acostas",
+                "el": "acosta",
+                "nosotros": "acostamos",
+                "vosotros": "acostáis",
+                "ellos": "acostan"
+            },
+            "preterite": {
+                "yo": "acosté",
+                "tu": "acostaste",
+                "el": "acostó",
+                "nosotros": "acostamos",
+                "vosotros": "acostasteis",
+                "ellos": "acostaron"
+            },
+            "imperfect": {
+                "yo": "acostaba",
+                "tu": "acostabas",
+                "el": "acostaba",
+                "nosotros": "acostábamos",
+                "vosotros": "acostabais",
+                "ellos": "acostaban"
+            },
+            "future": {
+                "yo": "acostaré",
+                "tu": "acostarás",
+                "el": "acostará",
+                "nosotros": "acostaremos",
+                "vosotros": "acostaréis",
+                "ellos": "acostarán"
+            },
+            "conditional": {
+                "yo": "acostaría",
+                "tu": "acostarías",
+                "el": "acostaría",
+                "nosotros": "acostaríamos",
+                "vosotros": "acostaríais",
+                "ellos": "acostarían"
+            },
+            "presentSubjunctive": {
+                "yo": "acoste",
+                "tu": "acostes",
+                "el": "acoste",
+                "nosotros": "acostemos",
+                "vosotros": "acostéis",
+                "ellos": "acosten"
+            },
+            "imperfectSubjunctive": {
+                "yo": "acostara",
+                "tu": "acostaras",
+                "el": "acostara",
+                "nosotros": "acostáramos",
+                "vosotros": "acostarais",
+                "ellos": "acostaran"
+            },
+            "presentPerfect": {
+                "yo": "he acostado",
+                "tu": "has acostado",
+                "el": "ha acostado",
+                "nosotros": "hemos acostado",
+                "vosotros": "habéis acostado",
+                "ellos": "han acostado"
+            },
+            "pastPerfect": {
+                "yo": "había acostado",
+                "tu": "habías acostado",
+                "el": "había acostado",
+                "nosotros": "habíamos acostado",
+                "vosotros": "habíais acostado",
+                "ellos": "habían acostado"
+            },
+            "futurePerfect": {
+                "yo": "habré acostado",
+                "tu": "habrás acostado",
+                "el": "habrá acostado",
+                "nosotros": "habremos acostado",
+                "vosotros": "habréis acostado",
+                "ellos": "habrán acostado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría acostado",
+                "tu": "habrías acostado",
+                "el": "habría acostado",
+                "nosotros": "habríamos acostado",
+                "vosotros": "habríais acostado",
+                "ellos": "habrían acostado"
+            }
+        }
+    },
+    {
+        "word": "almorzar",
+        "tenses": {
+            "present": {
+                "yo": "almorzo",
+                "tu": "almorzas",
+                "el": "almorza",
+                "nosotros": "almorzamos",
+                "vosotros": "almorzáis",
+                "ellos": "almorzan"
+            },
+            "preterite": {
+                "yo": "almorzé",
+                "tu": "almorzaste",
+                "el": "almorzó",
+                "nosotros": "almorzamos",
+                "vosotros": "almorzasteis",
+                "ellos": "almorzaron"
+            },
+            "imperfect": {
+                "yo": "almorzaba",
+                "tu": "almorzabas",
+                "el": "almorzaba",
+                "nosotros": "almorzábamos",
+                "vosotros": "almorzabais",
+                "ellos": "almorzaban"
+            },
+            "future": {
+                "yo": "almorzaré",
+                "tu": "almorzarás",
+                "el": "almorzará",
+                "nosotros": "almorzaremos",
+                "vosotros": "almorzaréis",
+                "ellos": "almorzarán"
+            },
+            "conditional": {
+                "yo": "almorzaría",
+                "tu": "almorzarías",
+                "el": "almorzaría",
+                "nosotros": "almorzaríamos",
+                "vosotros": "almorzaríais",
+                "ellos": "almorzarían"
+            },
+            "presentSubjunctive": {
+                "yo": "almorze",
+                "tu": "almorzes",
+                "el": "almorze",
+                "nosotros": "almorzemos",
+                "vosotros": "almorzéis",
+                "ellos": "almorzen"
+            },
+            "imperfectSubjunctive": {
+                "yo": "almorzara",
+                "tu": "almorzaras",
+                "el": "almorzara",
+                "nosotros": "almorzáramos",
+                "vosotros": "almorzarais",
+                "ellos": "almorzaran"
+            },
+            "presentPerfect": {
+                "yo": "he almorzado",
+                "tu": "has almorzado",
+                "el": "ha almorzado",
+                "nosotros": "hemos almorzado",
+                "vosotros": "habéis almorzado",
+                "ellos": "han almorzado"
+            },
+            "pastPerfect": {
+                "yo": "había almorzado",
+                "tu": "habías almorzado",
+                "el": "había almorzado",
+                "nosotros": "habíamos almorzado",
+                "vosotros": "habíais almorzado",
+                "ellos": "habían almorzado"
+            },
+            "futurePerfect": {
+                "yo": "habré almorzado",
+                "tu": "habrás almorzado",
+                "el": "habrá almorzado",
+                "nosotros": "habremos almorzado",
+                "vosotros": "habréis almorzado",
+                "ellos": "habrán almorzado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría almorzado",
+                "tu": "habrías almorzado",
+                "el": "habría almorzado",
+                "nosotros": "habríamos almorzado",
+                "vosotros": "habríais almorzado",
+                "ellos": "habrían almorzado"
+            }
+        }
+    },
+    {
+        "word": "amar",
+        "tenses": {
+            "present": {
+                "yo": "amo",
+                "tu": "amas",
+                "el": "ama",
+                "nosotros": "amamos",
+                "vosotros": "amáis",
+                "ellos": "aman"
+            },
+            "preterite": {
+                "yo": "amé",
+                "tu": "amaste",
+                "el": "amó",
+                "nosotros": "amamos",
+                "vosotros": "amasteis",
+                "ellos": "amaron"
+            },
+            "imperfect": {
+                "yo": "amaba",
+                "tu": "amabas",
+                "el": "amaba",
+                "nosotros": "amábamos",
+                "vosotros": "amabais",
+                "ellos": "amaban"
+            },
+            "future": {
+                "yo": "amaré",
+                "tu": "amarás",
+                "el": "amará",
+                "nosotros": "amaremos",
+                "vosotros": "amaréis",
+                "ellos": "amarán"
+            },
+            "conditional": {
+                "yo": "amaría",
+                "tu": "amarías",
+                "el": "amaría",
+                "nosotros": "amaríamos",
+                "vosotros": "amaríais",
+                "ellos": "amarían"
+            },
+            "presentSubjunctive": {
+                "yo": "ame",
+                "tu": "ames",
+                "el": "ame",
+                "nosotros": "amemos",
+                "vosotros": "améis",
+                "ellos": "amen"
+            },
+            "imperfectSubjunctive": {
+                "yo": "amara",
+                "tu": "amaras",
+                "el": "amara",
+                "nosotros": "amáramos",
+                "vosotros": "amarais",
+                "ellos": "amaran"
+            },
+            "presentPerfect": {
+                "yo": "he amado",
+                "tu": "has amado",
+                "el": "ha amado",
+                "nosotros": "hemos amado",
+                "vosotros": "habéis amado",
+                "ellos": "han amado"
+            },
+            "pastPerfect": {
+                "yo": "había amado",
+                "tu": "habías amado",
+                "el": "había amado",
+                "nosotros": "habíamos amado",
+                "vosotros": "habíais amado",
+                "ellos": "habían amado"
+            },
+            "futurePerfect": {
+                "yo": "habré amado",
+                "tu": "habrás amado",
+                "el": "habrá amado",
+                "nosotros": "habremos amado",
+                "vosotros": "habréis amado",
+                "ellos": "habrán amado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría amado",
+                "tu": "habrías amado",
+                "el": "habría amado",
+                "nosotros": "habríamos amado",
+                "vosotros": "habríais amado",
+                "ellos": "habrían amado"
+            }
+        }
+    },
+    {
+        "word": "asistir",
+        "tenses": {
+            "present": {
+                "yo": "asisto",
+                "tu": "asistes",
+                "el": "asiste",
+                "nosotros": "asistimos",
+                "vosotros": "asistís",
+                "ellos": "asisten"
+            },
+            "preterite": {
+                "yo": "asistí",
+                "tu": "asististe",
+                "el": "asistió",
+                "nosotros": "asistimos",
+                "vosotros": "asististeis",
+                "ellos": "asistieron"
+            },
+            "imperfect": {
+                "yo": "asistía",
+                "tu": "asistías",
+                "el": "asistía",
+                "nosotros": "asistíamos",
+                "vosotros": "asistíais",
+                "ellos": "asistían"
+            },
+            "future": {
+                "yo": "asistiré",
+                "tu": "asistirás",
+                "el": "asistirá",
+                "nosotros": "asistiremos",
+                "vosotros": "asistiréis",
+                "ellos": "asistirán"
+            },
+            "conditional": {
+                "yo": "asistiría",
+                "tu": "asistirías",
+                "el": "asistiría",
+                "nosotros": "asistiríamos",
+                "vosotros": "asistiríais",
+                "ellos": "asistirían"
+            },
+            "presentSubjunctive": {
+                "yo": "asista",
+                "tu": "asistas",
+                "el": "asista",
+                "nosotros": "asistamos",
+                "vosotros": "asistáis",
+                "ellos": "asistan"
+            },
+            "imperfectSubjunctive": {
+                "yo": "asistiera",
+                "tu": "asistieras",
+                "el": "asistiera",
+                "nosotros": "asistiéramos",
+                "vosotros": "asistierais",
+                "ellos": "asistieran"
+            },
+            "presentPerfect": {
+                "yo": "he asistido",
+                "tu": "has asistido",
+                "el": "ha asistido",
+                "nosotros": "hemos asistido",
+                "vosotros": "habéis asistido",
+                "ellos": "han asistido"
+            },
+            "pastPerfect": {
+                "yo": "había asistido",
+                "tu": "habías asistido",
+                "el": "había asistido",
+                "nosotros": "habíamos asistido",
+                "vosotros": "habíais asistido",
+                "ellos": "habían asistido"
+            },
+            "futurePerfect": {
+                "yo": "habré asistido",
+                "tu": "habrás asistido",
+                "el": "habrá asistido",
+                "nosotros": "habremos asistido",
+                "vosotros": "habréis asistido",
+                "ellos": "habrán asistido"
+            },
+            "conditionalPerfect": {
+                "yo": "habría asistido",
+                "tu": "habrías asistido",
+                "el": "habría asistido",
+                "nosotros": "habríamos asistido",
+                "vosotros": "habríais asistido",
+                "ellos": "habrían asistido"
+            }
+        }
+    },
+    {
+        "word": "compartir",
+        "tenses": {
+            "present": {
+                "yo": "comparto",
+                "tu": "compartes",
+                "el": "comparte",
+                "nosotros": "compartimos",
+                "vosotros": "compartís",
+                "ellos": "comparten"
+            },
+            "preterite": {
+                "yo": "compartí",
+                "tu": "compartiste",
+                "el": "compartió",
+                "nosotros": "compartimos",
+                "vosotros": "compartisteis",
+                "ellos": "compartieron"
+            },
+            "imperfect": {
+                "yo": "compartía",
+                "tu": "compartías",
+                "el": "compartía",
+                "nosotros": "compartíamos",
+                "vosotros": "compartíais",
+                "ellos": "compartían"
+            },
+            "future": {
+                "yo": "compartiré",
+                "tu": "compartirás",
+                "el": "compartirá",
+                "nosotros": "compartiremos",
+                "vosotros": "compartiréis",
+                "ellos": "compartirán"
+            },
+            "conditional": {
+                "yo": "compartiría",
+                "tu": "compartirías",
+                "el": "compartiría",
+                "nosotros": "compartiríamos",
+                "vosotros": "compartiríais",
+                "ellos": "compartirían"
+            },
+            "presentSubjunctive": {
+                "yo": "comparta",
+                "tu": "compartas",
+                "el": "comparta",
+                "nosotros": "compartamos",
+                "vosotros": "compartáis",
+                "ellos": "compartan"
+            },
+            "imperfectSubjunctive": {
+                "yo": "compartiera",
+                "tu": "compartieras",
+                "el": "compartiera",
+                "nosotros": "compartiéramos",
+                "vosotros": "compartierais",
+                "ellos": "compartieran"
+            },
+            "presentPerfect": {
+                "yo": "he compartido",
+                "tu": "has compartido",
+                "el": "ha compartido",
+                "nosotros": "hemos compartido",
+                "vosotros": "habéis compartido",
+                "ellos": "han compartido"
+            },
+            "pastPerfect": {
+                "yo": "había compartido",
+                "tu": "habías compartido",
+                "el": "había compartido",
+                "nosotros": "habíamos compartido",
+                "vosotros": "habíais compartido",
+                "ellos": "habían compartido"
+            },
+            "futurePerfect": {
+                "yo": "habré compartido",
+                "tu": "habrás compartido",
+                "el": "habrá compartido",
+                "nosotros": "habremos compartido",
+                "vosotros": "habréis compartido",
+                "ellos": "habrán compartido"
+            },
+            "conditionalPerfect": {
+                "yo": "habría compartido",
+                "tu": "habrías compartido",
+                "el": "habría compartido",
+                "nosotros": "habríamos compartido",
+                "vosotros": "habríais compartido",
+                "ellos": "habrían compartido"
+            }
+        }
+    },
+    {
+        "word": "contestar",
+        "tenses": {
+            "present": {
+                "yo": "contesto",
+                "tu": "contestas",
+                "el": "contesta",
+                "nosotros": "contestamos",
+                "vosotros": "contestáis",
+                "ellos": "contestan"
+            },
+            "preterite": {
+                "yo": "contesté",
+                "tu": "contestaste",
+                "el": "contestó",
+                "nosotros": "contestamos",
+                "vosotros": "contestasteis",
+                "ellos": "contestaron"
+            },
+            "imperfect": {
+                "yo": "contestaba",
+                "tu": "contestabas",
+                "el": "contestaba",
+                "nosotros": "contestábamos",
+                "vosotros": "contestabais",
+                "ellos": "contestaban"
+            },
+            "future": {
+                "yo": "contestaré",
+                "tu": "contestarás",
+                "el": "contestará",
+                "nosotros": "contestaremos",
+                "vosotros": "contestaréis",
+                "ellos": "contestarán"
+            },
+            "conditional": {
+                "yo": "contestaría",
+                "tu": "contestarías",
+                "el": "contestaría",
+                "nosotros": "contestaríamos",
+                "vosotros": "contestaríais",
+                "ellos": "contestarían"
+            },
+            "presentSubjunctive": {
+                "yo": "conteste",
+                "tu": "contestes",
+                "el": "conteste",
+                "nosotros": "contestemos",
+                "vosotros": "contestéis",
+                "ellos": "contesten"
+            },
+            "imperfectSubjunctive": {
+                "yo": "contestara",
+                "tu": "contestaras",
+                "el": "contestara",
+                "nosotros": "contestáramos",
+                "vosotros": "contestarais",
+                "ellos": "contestaran"
+            },
+            "presentPerfect": {
+                "yo": "he contestado",
+                "tu": "has contestado",
+                "el": "ha contestado",
+                "nosotros": "hemos contestado",
+                "vosotros": "habéis contestado",
+                "ellos": "han contestado"
+            },
+            "pastPerfect": {
+                "yo": "había contestado",
+                "tu": "habías contestado",
+                "el": "había contestado",
+                "nosotros": "habíamos contestado",
+                "vosotros": "habíais contestado",
+                "ellos": "habían contestado"
+            },
+            "futurePerfect": {
+                "yo": "habré contestado",
+                "tu": "habrás contestado",
+                "el": "habrá contestado",
+                "nosotros": "habremos contestado",
+                "vosotros": "habréis contestado",
+                "ellos": "habrán contestado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría contestado",
+                "tu": "habrías contestado",
+                "el": "habría contestado",
+                "nosotros": "habríamos contestado",
+                "vosotros": "habríais contestado",
+                "ellos": "habrían contestado"
+            }
+        }
+    },
+    {
+        "word": "cortar",
+        "tenses": {
+            "present": {
+                "yo": "corto",
+                "tu": "cortas",
+                "el": "corta",
+                "nosotros": "cortamos",
+                "vosotros": "cortáis",
+                "ellos": "cortan"
+            },
+            "preterite": {
+                "yo": "corté",
+                "tu": "cortaste",
+                "el": "cortó",
+                "nosotros": "cortamos",
+                "vosotros": "cortasteis",
+                "ellos": "cortaron"
+            },
+            "imperfect": {
+                "yo": "cortaba",
+                "tu": "cortabas",
+                "el": "cortaba",
+                "nosotros": "cortábamos",
+                "vosotros": "cortabais",
+                "ellos": "cortaban"
+            },
+            "future": {
+                "yo": "cortaré",
+                "tu": "cortarás",
+                "el": "cortará",
+                "nosotros": "cortaremos",
+                "vosotros": "cortaréis",
+                "ellos": "cortarán"
+            },
+            "conditional": {
+                "yo": "cortaría",
+                "tu": "cortarías",
+                "el": "cortaría",
+                "nosotros": "cortaríamos",
+                "vosotros": "cortaríais",
+                "ellos": "cortarían"
+            },
+            "presentSubjunctive": {
+                "yo": "corte",
+                "tu": "cortes",
+                "el": "corte",
+                "nosotros": "cortemos",
+                "vosotros": "cortéis",
+                "ellos": "corten"
+            },
+            "imperfectSubjunctive": {
+                "yo": "cortara",
+                "tu": "cortaras",
+                "el": "cortara",
+                "nosotros": "cortáramos",
+                "vosotros": "cortarais",
+                "ellos": "cortaran"
+            },
+            "presentPerfect": {
+                "yo": "he cortado",
+                "tu": "has cortado",
+                "el": "ha cortado",
+                "nosotros": "hemos cortado",
+                "vosotros": "habéis cortado",
+                "ellos": "han cortado"
+            },
+            "pastPerfect": {
+                "yo": "había cortado",
+                "tu": "habías cortado",
+                "el": "había cortado",
+                "nosotros": "habíamos cortado",
+                "vosotros": "habíais cortado",
+                "ellos": "habían cortado"
+            },
+            "futurePerfect": {
+                "yo": "habré cortado",
+                "tu": "habrás cortado",
+                "el": "habrá cortado",
+                "nosotros": "habremos cortado",
+                "vosotros": "habréis cortado",
+                "ellos": "habrán cortado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría cortado",
+                "tu": "habrías cortado",
+                "el": "habría cortado",
+                "nosotros": "habríamos cortado",
+                "vosotros": "habríais cortado",
+                "ellos": "habrían cortado"
+            }
+        }
+    }
+]

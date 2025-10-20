@@ -1,0 +1,95 @@
+[
+    {
+        "word": "colocar",
+        "tenses": {
+            "present": {
+                "yo": "coloco",
+                "tu": "colocas",
+                "el": "coloca",
+                "nosotros": "colocamos",
+                "vosotros": "colocáis",
+                "ellos": "colocan"
+            },
+            "preterite": {
+                "yo": "colocé",
+                "tu": "colocaste",
+                "el": "colocó",
+                "nosotros": "colocamos",
+                "vosotros": "colocasteis",
+                "ellos": "colocaron"
+            },
+            "imperfect": {
+                "yo": "colocaba",
+                "tu": "colocabas",
+                "el": "colocaba",
+                "nosotros": "colocábamos",
+                "vosotros": "colocabais",
+                "ellos": "colocaban"
+            },
+            "future": {
+                "yo": "colocaré",
+                "tu": "colocarás",
+                "el": "colocará",
+                "nosotros": "colocaremos",
+                "vosotros": "colocaréis",
+                "ellos": "colocarán"
+            },
+            "conditional": {
+                "yo": "colocaría",
+                "tu": "colocarías",
+                "el": "colocaría",
+                "nosotros": "colocaríamos",
+                "vosotros": "colocaríais",
+                "ellos": "colocarían"
+            },
+            "presentSubjunctive": {
+                "yo": "coloce",
+                "tu": "coloces",
+                "el": "coloce",
+                "nosotros": "colocemos",
+                "vosotros": "colocéis",
+                "ellos": "colocen"
+            },
+            "imperfectSubjunctive": {
+                "yo": "colocara",
+                "tu": "colocaras",
+                "el": "colocara",
+                "nosotros": "colocáramos",
+                "vosotros": "colocarais",
+                "ellos": "colocaran"
+            },
+            "presentPerfect": {
+                "yo": "he colocado",
+                "tu": "has colocado",
+                "el": "ha colocado",
+                "nosotros": "hemos colocado",
+                "vosotros": "habéis colocado",
+                "ellos": "han colocado"
+            },
+            "pastPerfect": {
+                "yo": "había colocado",
+                "tu": "habías colocado",
+                "el": "había colocado",
+                "nosotros": "habíamos colocado",
+                "vosotros": "habíais colocado",
+                "ellos": "habían colocado"
+            },
+            "futurePerfect": {
+                "yo": "habré colocado",
+                "tu": "habrás colocado",
+                "el": "habrá colocado",
+                "nosotros": "habremos colocado",
+                "vosotros": "habréis colocado",
+                "ellos": "habrán colocado"
+            },
+            "conditionalPerfect": {
+                "yo": "habría colocado",
+                "tu": "habrías colocado",
+                "el": "habría colocado",
+                "nosotros": "habríamos colocado",
+                "vosotros": "habríais colocado",
+                "ellos": "habrían colocado"
+            }
+        }
+    }
+]
