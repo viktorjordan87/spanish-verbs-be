@@ -1,14 +1,24 @@
 import Fastify from 'fastify';
 import cors from '@fastify/cors';
 import rateLimit from '@fastify/rate-limit';
+import fastifyStatic from '@fastify/static';
+import path from 'path';
+import { fileURLToPath } from 'url';
 import { config } from './config/env.js';
 import { connectToDatabase } from './config/db.js';
 import verbsRoutes from './routes/verbs.routes.js';
 
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 async function buildServer() {
   const app = Fastify({ logger: true });
 
-  await app.register(cors, { origin: true });
+  // CORS configuration
+  await app.register(cors, {
+    origin: config.appUrl,
+    credentials: true,
+  });
   await app.register(rateLimit, {
     max: 100,
     timeWindow: '1 minute',
@@ -22,6 +32,20 @@ async function buildServer() {
   app.get('/health', async () => ({ status: 'ok' }));
 
   await app.register(verbsRoutes);
+
+  // Serve frontend in production
+  if (process.env.NODE_ENV === 'production') {
+    // Serve static files for your frontend
+    await app.register(fastifyStatic, {
+      root: path.resolve(__dirname, '../frontend/dist'),
+      prefix: '/',
+    });
+
+    // Catch-all route to serve your frontend application
+    app.setNotFoundHandler((request, reply) => {
+      reply.sendFile('index.html');
+    });
+  }
 
   app.setErrorHandler((error, request, reply) => {
     request.log.error(error);
