@@ -18,10 +18,15 @@ if (!process.env.NODE_ENV) {
   throw new Error('NODE_ENV is not set');
 }
 
+if (!process.env.ADMIN_PASSWORD) {
+  throw new Error('ADMIN_PASSWORD is not set');
+}
+
 export const config = {
   mongoUri: process.env.MONGO_URI,
   port: Number(process.env.PORT),
   nodeEnv: process.env.NODE_ENV,
   appUrl: process.env.APP_URL,
+  adminPassword: process.env.ADMIN_PASSWORD,
 };
 

@@ -7,6 +7,7 @@ import { fileURLToPath } from 'url';
 import { config } from './config/env.js';
 import { connectToDatabase } from './config/db.js';
 import verbsRoutes from './routes/verbs.routes.js';
+import translationsRoutes from './routes/translations.routes.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -32,7 +33,8 @@ async function buildServer() {
   app.get('/health', async () => ({ status: 'ok' }));
 
   await app.register(verbsRoutes);
-
+  await app.register(translationsRoutes);
+  
   // Serve frontend in production
   if (process.env.NODE_ENV === 'production') {
     // Serve static files for your frontend
